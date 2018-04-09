@@ -1,0 +1,20 @@
+{
+  "name": "@jecyhw/ng5-tinymce",
+  "description": "Forked From Official TinyMCE Angular Component",
+  "version": "1.0.7",
+  "repository": "https://github.com/jecyhw/ng5-tinymce.git",
+  "author": "jecyhw",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "@angular/core": "^5.2.0",
+    "@angular/common": "^5.2.0",
+    "@angular/forms": "^5.2.0",
+    "tslib": "^1.7.1"
+  },
+  "main": "bundles/jecyhw-ng5-tinymce.umd.js",
+  "module": "esm5/jecyhw-ng5-tinymce.js",
+  "es2015": "esm2015/jecyhw-ng5-tinymce.js",
+  "typings": "jecyhw-ng5-tinymce.d.ts",
+  "metadata": "jecyhw-ng5-tinymce.metadata.json"
+}
